@@ -5,7 +5,8 @@
 }
 
 h1{
-    background: palegreen;
+    background: #000;
+    color: #fff;
     text-align: center;
     height: 5rem;
     line-height: 5rem;
